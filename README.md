@@ -1,6 +1,6 @@
 <h1 style="font-family:script;" align="center">Hi 👋, I'm Nwabueze Franklin (SOLO)</h1>
 <h3 align="center">Critical thinking and problem solving. Teamwork and collaboration. Professionalism and strong work ethic. Oral and written communications skills. Leadership.</h3>
-<img align="right" alt="Coding" width="600" height="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<img align="right" alt="Coding" width="700" height="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabuezefranklin&label=Profile%20views&color=0e75b6&style=flat" alt="nwabuezefranklin" /> </p>
 
