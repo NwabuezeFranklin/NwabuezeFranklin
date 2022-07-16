@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NwabuezeFranklin&theme=dark" alt="Tolulope05" /></p>
 <br/>
- <b>Note:</b><h3> I practice more than indicated</h3>
+ <b>Note:</b><h3> I practice more than indicated!</h3>
 
 
 > <a href="https://github.com/NwabuezeFranklin/github-readme-activity-graph"><img alt="Nwabueze Franklin' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NwabuezeFranklin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
