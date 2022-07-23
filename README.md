@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nwafrank2017@gmail.com**
 
-- ⚡ Fun fact **A shrimp's heart is in its head.**
+- ⚡ Fun fact **A shrimp's heart is in its head...**
 
 </p>
 
