@@ -20,12 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NwabuezeFranklin&theme=dark" alt="NwabuezeFranklin" /></p>
 <br/>
- <b>Note:</b><h3> I practice more than indicated!!!</h3>
-
-
-> <a href="https://github.com/NwabuezeFranklin/github-readme-activity-graph"><img alt="Nwabueze Franklin' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NwabuezeFranklin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-
+ 
 <!---
 NwabuezeFranlin/NwabuezeFranklin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
