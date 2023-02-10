@@ -5,6 +5,7 @@
 , I'm Nwabueze Franklin (SOLO)</h1>
 <h3 align="center">Critical thinking and problem solving. Teamwork and collaboration. Professionalism and strong work ethic. Oral and written communications skills. Leadership.</h3>
 
+<p align="left"> <a href="https://twitter.com/Nwa_Bu_Eze" target="blank"><img src="https://img.shields.io/twitter/follow/Nwa_Bu_Eze?logo=twitter&style=for-the-badge" alt="Nwa_Bu_Eze" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabuezefranklin&label=Profile%20views&color=0e75b6&style=flat" alt="nwabuezefranklin" />
 
@@ -13,7 +14,16 @@
 
  <br>
  
- 
+ ## 🔗 Links
+<!-- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard) -->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nwabueze-franklin-9638a7236/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+23409076608753)
+[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@franklintech141)
+[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@nwafrank2017)
+<!-- [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucodes) -->
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/) -->
+<!-- [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@franklintech141) -->
+
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NwabuezeFranklin&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NwabuezeFranklin&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Nwabueze Franklin's github stats" /></p>
